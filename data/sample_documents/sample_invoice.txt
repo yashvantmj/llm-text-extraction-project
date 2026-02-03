@@ -1,0 +1,46 @@
+INVOICE #2024-0156
+
+Date: February 1, 2024
+Due Date: March 1, 2024
+
+FROM:
+Premium Software Solutions LLC
+1234 Tech Drive, Suite 500
+Silicon Valley, CA 94025
+Phone: (555) 123-4567
+Email: billing@premiumsoft.com
+Tax ID: 12-3456789
+
+BILL TO:
+Innovative Enterprises Inc.
+5678 Business Boulevard
+New York, NY 10001
+Phone: (555) 987-6543
+Email: accounts@innovative.com
+
+DESCRIPTION                                    QTY    RATE        TOTAL
+----------------------------------------------------------------------
+Enterprise Software License (Annual)             1   $25,000.00  $25,000.00
+Premium Support Package                          1   $5,000.00   $5,000.00
+Cloud Storage (500GB)                           12   $99.99      $1,199.88
+API Access Fee                                   1   $2,500.00   $2,500.00
+Onboarding & Training                            8   $250.00     $2,000.00
+Custom Integration Development                  40   $150.00     $6,000.00
+
+                                                      SUBTOTAL:   $41,699.88
+                                                      Tax (8.875%): $3,700.87
+                                                      TOTAL DUE:  $45,400.75
+
+PAYMENT TERMS:
+Net 30 days. Payment due by March 1, 2024.
+
+PAYMENT METHODS:
+- Wire Transfer: Account #123456789, Routing #987654321
+- Check: Payable to Premium Software Solutions LLC
+- ACH: Available upon request
+
+NOTES:
+Thank you for your business! For questions regarding this invoice, 
+please contact our billing department at billing@premiumsoft.com.
+
+Late payments subject to 1.5% monthly interest charge.
