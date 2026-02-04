@@ -10,7 +10,7 @@ import json
 
 def main():
     # Initialize the extractor (will use default provider from .env)
-    extractor = TextExtractor()
+    extractor = TextExtractor(provider="openai")
 
     # Example 1: News article
     print("=" * 60)

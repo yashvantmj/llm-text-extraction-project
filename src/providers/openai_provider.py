@@ -2,9 +2,13 @@
 OpenAI provider implementation for text extraction.
 """
 
+import os
 from typing import Optional
 from openai import OpenAI
+from dotenv import load_dotenv
 
+# Load environment variables
+load_dotenv()
 
 class OpenAIProvider:
     """Provider class for OpenAI API integration."""
@@ -20,7 +24,7 @@ class OpenAIProvider:
         if not api_key:
             raise ValueError("OpenAI API key is required")
 
-        self.client = OpenAI(api_key=api_key)
+        self.client = OpenAI(api_key=api_key or os.getenv("OPENAI_API_KEY"))        
         self.model = model
 
     def complete(
